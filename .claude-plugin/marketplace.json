@@ -1,0 +1,37 @@
+{
+  "name": "claude-metaskill",
+  "owner": {
+    "name": "Nick Raziborsky",
+    "url": "https://github.com/werkamsus"
+  },
+  "metadata": {
+    "description": "Meta-skill for mastering Claude Code configuration: skills, subagents, hooks, permissions, and MCP servers",
+    "version": "1.0.0",
+    "pluginRoot": "skills"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-config",
+      "source": "./claude-code-config",
+      "description": "Expert guidance for configuring Claude Code including creating skills, subagents, hooks, permissions, and MCP servers like Context7. Comprehensive examples and troubleshooting included.",
+      "version": "1.0.0",
+      "category": "Development",
+      "keywords": [
+        "configuration",
+        "skills",
+        "subagents",
+        "hooks",
+        "permissions",
+        "mcp",
+        "context7",
+        "meta-skill",
+        "setup",
+        "guide"
+      ],
+      "author": "Nick Raziborsky",
+      "homepage": "https://github.com/werkamsus/claude-metaskill",
+      "repository": "https://github.com/werkamsus/claude-metaskill",
+      "license": "MIT"
+    }
+  ]
+}
