@@ -1,11 +1,17 @@
+<div align="center">
+
 # Claude MetaSkill
 
 > **A meta-skill for mastering Claude Code configuration**
+
+<img src="assets/hero.png" alt="Claude MetaSkill" width="600">
 
 Learn to create skills, subagents, hooks, permissions, and integrate MCP servers through an expert-guided Claude Code skill. This is a skill that teaches you how to build skills (and much more).
 
 [![Claude Code](https://img.shields.io/badge/Claude-Code-8A63D2?logo=anthropic)](https://claude.ai/code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+</div>
 
 ## What This Skill Does
 
