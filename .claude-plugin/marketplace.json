@@ -5,7 +5,7 @@
     "url": "https://github.com/werkamsus"
   },
   "metadata": {
-    "description": "Meta-skill for mastering Claude Code configuration: skills, subagents, hooks, permissions, and MCP servers",
+    "description": "A Claude Code skill that makes Claude an expert at configuring Claude Code: skills, subagents, hooks, permissions, and MCP servers",
     "version": "1.0.0",
     "pluginRoot": "skills"
   },
@@ -13,7 +13,7 @@
     {
       "name": "claude-code-config",
       "source": "./claude-code-config",
-      "description": "Expert guidance for configuring Claude Code including creating skills, subagents, hooks, permissions, and MCP servers like Context7. Comprehensive examples and troubleshooting included.",
+      "description": "A skill that Claude Code uses to provide expert guidance on creating skills, subagents, hooks, permissions, and MCP servers like Context7. Comprehensive examples and troubleshooting included.",
       "version": "1.0.0",
       "category": "Development",
       "keywords": [

@@ -2,11 +2,11 @@
 
 # Claude MetaSkill
 
-> **A meta-skill for mastering Claude Code configuration**
+> **A Claude Code skill that makes Claude an expert at configuring Claude Code**
 
 <img src="assets/hero.png" alt="Claude MetaSkill" width="600">
 
-Learn to create skills, subagents, hooks, permissions, and integrate MCP servers through an expert-guided Claude Code skill. This is a skill that teaches you how to build skills (and much more).
+A meta-skill that Claude Code uses to expertly guide you through creating skills, subagents, hooks, permissions, and MCP server integrations. When installed, Claude becomes your configuration expert.
 
 [![Claude Code](https://img.shields.io/badge/Claude-Code-8A63D2?logo=anthropic)](https://claude.ai/code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -15,7 +15,7 @@ Learn to create skills, subagents, hooks, permissions, and integrate MCP servers
 
 ## What This Skill Does
 
-Claude MetaSkill provides comprehensive, on-demand guidance for:
+When installed, Claude Code automatically uses this skill to provide expert guidance on:
 
 - ✨ **Creating Skills** - File structure, SKILL.md format, best practices
 - 🤖 **Building Subagents** - YAML configuration, tool permissions, model selection
