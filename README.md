@@ -4,7 +4,7 @@
 
 > **A Claude Code skill that makes Claude an expert at configuring Claude Code**
 
-<img src="assets/hero.png" alt="Claude MetaSkill" width="600">
+<img src="assets/hero-dark.png" alt="Claude MetaSkill" width="600">
 
 A meta-skill that Claude Code uses to expertly guide you through creating skills, subagents, hooks, permissions, and MCP server integrations. When installed, Claude becomes your configuration expert.
 
