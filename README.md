@@ -13,6 +13,21 @@ A meta-skill that Claude Code uses to expertly guide you through creating skills
 
 </div>
 
+---
+
+## Quick Install
+
+Open Claude Code and run these commands:
+
+```
+/plugin marketplace add werkamsus/claude-metaskill
+/plugin install claude-code-config
+```
+
+Done. Claude now knows how to configure itself.
+
+---
+
 ## What This Skill Does
 
 When installed, Claude Code automatically uses this skill to provide expert guidance on:
