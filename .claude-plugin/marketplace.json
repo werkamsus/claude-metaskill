@@ -28,7 +28,10 @@
         "setup",
         "guide"
       ],
-      "author": "Nick Raziborsky",
+      "author": {
+        "name": "Nick Raziborsky",
+        "url": "https://github.com/werkamsus"
+      },
       "homepage": "https://github.com/werkamsus/claude-metaskill",
       "repository": "https://github.com/werkamsus/claude-metaskill",
       "license": "MIT"
